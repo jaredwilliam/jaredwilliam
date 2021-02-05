@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**jaredwilliam/jaredwilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jared and I studied physics in University and I am fanscinated how the world works and solving problems. . I have been working on improving my programming and analytics skills and am sharing them here. 
+- 🌱 I’m currently learning about computational thinking in Python through an MIT edX course. My inspiration for taking this course is to really nail down the foundational aspects of programming in Python to solve problems. 
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--
+**jaredwilliam/jaredwilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
