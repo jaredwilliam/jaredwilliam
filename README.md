@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Jared and I studied physics in University and I am fanscinated how the world works and solving problems. . I have been working on improving my programming and analytics skills and am sharing them here. 
-- 🌱 I’m currently learning about computational thinking in Python through an MIT edX course. My inspiration for taking this course is to really nail down the foundational aspects of programming in Python to solve problems. 
+- 🌱 I’m currently learning about computational thinking in Python through an MIT edX course. I am also currently taking Andrew Ng's Machine Learning course with MATLAB, but have given myself the extra challenge of doing the projects in Python. My inspiration for taking these courses is to really nail down the foundational aspects of programming and machine learning in Python to solve interesting problems. 
 - 👯 I’m looking to collaborate on data analysis and data science projects. I've done a couple small projects myself but looking to help on a larger project. 
 
 
