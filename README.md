@@ -1,7 +1,4 @@
-### Hi there 👋
-
-My name is Jared and I studied physics in University and I am fanscinated how the world works and solving problems. . I have been working on improving my programming and analytics skills and am sharing them here.
-
+### Hi 👋
 
 
 <!--
